@@ -1,43 +1,43 @@
 # HabitTrackerApp
 
-Overview
+## Overview
 
 This is a Python-based command-line habit tracking application that allows users to manage daily and weekly habits. The app helps users create habits, track progress, and analyze their completion rates, using an SQLite database for persistence.
 
-Features
+## Features
 
-Add, edit, and delete habits.
-Track habits based on periodicity (daily or weekly).
-View completion history and streaks.
-Analyze habits by category and completion rates.
-Store data using SQLite database for persistence.
+- Add, edit, and delete habits.
+- Track habits based on periodicity (daily or weekly).
+- View completion history and streaks.
+- Analyze habits by category and completion rates.
+- Store data using SQLite database.
 
-How to Use
+## How to Use
 
-1. Clone the repository:
-    git clone https://github.com/zingalorp/HabitTrackerApp.git
-    cd HabitTrackerApp
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/zingalorp/HabitTrackerApp.git
+   cd HabitTrackerApp
 
-2. Run the app:
-    Run the following command in your terminal:
+2. **Run the app**: Run the following command in your terminal:
+    ```bash
     python habit_tracker.py
 
-3. Main Menu Options:
-    Create a habit
-    Complete a habit task
-    List all habits
-    View analytics
-    Edit a habit
-    Delete a habit
-    List uncomplete habits for today
-    Clear database (use with caution)
-    Exit
+3. **Main Menu Options:**  
+	- Create a habit  
+	- Complete a habit task  
+	- List all habits  
+	- View analytics  
+	- Edit a habit  
+	- Delete a habit  
+	- List uncompleted habits for today  
+	- Clear database (use with caution)  
+	- Exit  
 
-Dependencies
+## Dependencies
 
-Python 3.x
-SQLite (comes bundled with Python)
+- Python 3.x
+- SQLite (comes bundled with Python)
 
-GitHub Link
-
-[HabitTrackerApp](https://github.com/zingalorp/HabitTrackerApp)
+## GitHub Link
+https://github.com/zingalorp/HabitTrackerApp
