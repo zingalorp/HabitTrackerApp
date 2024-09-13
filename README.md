@@ -2,14 +2,14 @@
 
 ## Overview
 
-This is a Python-based command-line habit tracking application that allows users to manage daily and weekly habits. The app helps users create habits, track progress, and analyze their completion rates, using an SQLite database for persistence. The tracker opens with 5 predefined habits with 4 weeks of completion data, for testing purposes. Additionally, the app includes a unit test suite to ensure that the main features work properly.
+This is a Python-based command-line habit tracking application that allows users to manage daily and weekly habits. The app helps users create habits, track progress, and analyse their completion rates, using an SQLite database for persistence. The tracker opens with 5 predefined habits with 4 weeks of completion data, for testing purposes. Additionally, the app includes a unit test suite to ensure that the main features work properly.
 
 ## Features
 
 - Add, edit, and delete habits.
 - Track habits based on periodicity (daily or weekly).
 - View completion history and streaks.
-- Analyze habits by category and completion rates.
+- Analyse habits by category and completion rates.
 - Store data using SQLite database.
 - Predefined habits and data for testing.
 
